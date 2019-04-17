@@ -6,7 +6,7 @@
 
 ### 技术交流
 QQ群：940577921（备注：11）
-<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=1c0d93672d39f851223d8ca833ea764d809c3bd15000acb1052d65d89ceeb3e3">Java互联网技术技术交流 点击进群</a>
+<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=1c0d93672d39f851223d8ca833ea764d809c3bd15000acb1052d65d89ceeb3e3">Java互联网技术技术交流点击进群</a>
 
 
 
